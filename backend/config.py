@@ -8,3 +8,6 @@ SMTP_EMAIL = "thomasopeyemi1@gmail.com"
 SMTP_PASSWORD = "jnlwgpnipymvanif"
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
+
+ADMIN_USERNAME = "admin"
+ADMIN_PASSWORD = "opnex123"
